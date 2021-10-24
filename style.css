@@ -1,0 +1,72 @@
+.inputButton{
+    width: 20% !important;
+    margin: 2px;
+}
+
+.inputhalfButton{
+    width: 44% !important;
+    margin: 2px !important;
+
+}
+
+.inputclearButton{
+    width: 92% !important;
+}
+ 
+.input{
+    width: 86% !important;
+    background-color: rgb(206, 150, 192);
+
+}
+
+
+
+
+
+
+
+/* .main{
+    border: 2px solid rgb(33, 29, 92);
+    width: 40%;
+    margin: 0 auto;
+   
+} */
+body{
+    background-image: url("5.jpg");
+    background-color: rgb(37, 32, 32) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    object-fit: cover;
+}
+
+/* .result{
+    width: 100%;
+}
+.input{
+    width: 98%;
+    background-color: rgb(68, 15, 15);
+    color: #fff;
+    border: none;
+}
+
+
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(216, 170, 213);
+
+}
+
+.btn{
+    background-color: rgb(184, 166, 139);
+    width: 25px;
+    margin: 1px;
+}
+
+.halfBtn{
+    background-color: rgb(184, 166, 139);
+    width: 58px;
+    margin-top: 5px;
+} */
